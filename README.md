@@ -5,3 +5,6 @@ rebase_and_merge 2
 
 merge 1
 merge 2
+
+rebase_and_merge_2 1
+
