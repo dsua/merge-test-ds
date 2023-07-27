@@ -2,3 +2,4 @@
 
 
 squash 1
+squash 2
